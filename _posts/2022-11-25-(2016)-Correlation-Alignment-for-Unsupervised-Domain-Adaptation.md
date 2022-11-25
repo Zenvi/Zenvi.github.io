@@ -11,9 +11,9 @@ toc: yes # leave empty or erase for no table of contents
 mathjax: yes
 ---
 
-Paper Link: https://arxiv.org/pdf/1612.01939.pdf
+Paper Link: [https://arxiv.org/pdf/1612.01939.pdf](https://arxiv.org/pdf/1612.01939.pdf)
 
-Code Link: https://github.com/VisionLearningGroup/CORAL
+Code Link: [https://github.com/VisionLearningGroup/CORAL](https://github.com/VisionLearningGroup/CORAL)
 
 ## What Had the Authors Proposed
 

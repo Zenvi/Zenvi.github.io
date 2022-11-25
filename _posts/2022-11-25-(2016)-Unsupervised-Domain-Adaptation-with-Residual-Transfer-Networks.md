@@ -13,7 +13,7 @@ mathjax: yes
 
 Paper Link: [Unsupervised Domain Adaptation with Residual Transfer Networks (neurips.cc)](https://proceedings.neurips.cc/paper/2016/file/ac627ab1ccbdb62ec96e702f07f6425b-Paper.pdf)
 
-Code Link: https://github.com/thuml/transfer-caffe
+Code Link: [https://github.com/thuml/transfer-caffe](https://github.com/thuml/transfer-caffe)
 
 ## The Authors Argue That:
 
