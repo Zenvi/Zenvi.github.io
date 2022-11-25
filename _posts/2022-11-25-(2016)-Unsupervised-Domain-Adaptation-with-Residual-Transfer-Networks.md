@@ -13,7 +13,9 @@ mathjax: yes
 
 Paper Link: [Unsupervised Domain Adaptation with Residual Transfer Networks (neurips.cc)](https://proceedings.neurips.cc/paper/2016/file/ac627ab1ccbdb62ec96e702f07f6425b-Paper.pdf)
 
-## The authors argue that:
+Code Link: https://github.com/thuml/transfer-caffe
+
+## The Authors Argue That:
 
 - The source and target classifiers differ by a small residual function (A theory that is not testified)
 
