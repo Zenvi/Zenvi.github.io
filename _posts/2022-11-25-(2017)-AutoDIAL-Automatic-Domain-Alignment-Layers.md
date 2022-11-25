@@ -17,7 +17,7 @@ Supplementary Material: [Carlucci_AutoDIAL_Automatic_DomaIn_ICCV_2017_supplement
 
 Code Link: [https://github.com/ducksoup/autodial](https://github.com/ducksoup/autodial)
 
-## Key Elements:
+## Key Elements
 
 <center><img src="./assets/img/posts/20221125/AutoDIAL-Structure.png"></center>
 
@@ -25,7 +25,7 @@ Code Link: [https://github.com/ducksoup/autodial](https://github.com/ducksoup/au
 - Entropy minimizaiton on target samples
 - DA-layers to adapt the features
 
-## DA Layer:
+## DA Layer
 
 - The DA layer used for source data and the DA layer used for target data is probably going to be different, because there is a large probability that the distributions of source and target are different.
 
@@ -55,7 +55,7 @@ Code Link: [https://github.com/ducksoup/autodial](https://github.com/ducksoup/au
 
      $\alpha=1$ means deeply adaptation
 
-## My Comments:
+## My Comments
 
 1. $q^{st}_\alpha$ and $q^{ts}_\alpha$ is definitely unmeasurable, because source and target distributions are unmeasurable. So how did the authors calculate $\mu$ and $\sigma$ for the two mixed distributions?
 2. I'm having trouble with understanding the training process in the original paper.
