@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: 2017--"AutoDIAL: Automatic Domain Alignment Layers"
+title: 2017--"AutoDIAL：Automatic Domain Alignment Layers"
 date: 2022-11-25 20:17:00 +0800
 img: posts/20221125/AutoDIAL-Structure.png
 tags: [Deep Learning, Domain Adaptation, Statistical Matching]
@@ -10,8 +10,6 @@ author: Zenvi
 toc: yes # leave empty or erase for no table of contents
 mathjax: yes
 ---
-
-
 
 Paper Link: [AutoDIAL: Automatic DomaIn Alignment Layers (thecvf.com)](https://openaccess.thecvf.com/content_ICCV_2017/papers/Carlucci_AutoDIAL_Automatic_DomaIn_ICCV_2017_paper.pdf)
 
