@@ -57,6 +57,6 @@ Code Link: [https://github.com/ducksoup/autodial](https://github.com/ducksoup/au
 
 ## My Comments
 
-1. $q^{st}_\alpha$ and $q^{ts}_\alpha$ is definitely unmeasurable, because source and target distributions are unmeasurable. So how did the authors calculate $\mu$ and $\sigma$ for the two mixed distributions?
+1. <qst>$q^{st}_\alpha$</qst> and <qts>$q^{ts}_\alpha$</qts> is definitely unmeasurable, because source and target distributions are unmeasurable. So how did the authors calculate  the mean and variance for the two mixed distributions?
 2. I'm having trouble with understanding the training process in the original paper.
 3. Can I try incorporate DA Layer or AdaBN into DAN? With some statistical improvement.
