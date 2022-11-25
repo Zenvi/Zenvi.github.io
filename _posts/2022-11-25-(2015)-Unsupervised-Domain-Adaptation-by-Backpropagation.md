@@ -27,7 +27,7 @@ Paper Link: [Unsupervised Domain Adaptation by Backpropagation (mlr.press)](http
    + Minimizes the loss of the domain discriminator
 4. Gradient Reversal Layer: Ensures that the feature distributions over the two domains are made similar (as indistinguishable as possible for the domain discriminator), thus resulting in the domain-invariant features
 
-## Overall optimization problem:
+## Overall Optimization Problem
 
 <center><img src="./assets/img/posts/20221125/loss function.png"></center>
 
