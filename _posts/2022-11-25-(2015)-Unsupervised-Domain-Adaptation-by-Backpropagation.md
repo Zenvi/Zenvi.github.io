@@ -2,21 +2,21 @@
 layout: post
 read_time: true
 show_date: true
-title:  Unsupervised Domain Adaptation by Backpropagation
-date:   2022-11-25 13:32:20 +0800
+title: Zenvi's Notes on "Unsupervised Domain Adaptation by Backpropagation"
+date: 2022-11-25 13:32:20 +0800
 description: "DANN: The first attempt to incorporate an adversarial training strategy into domain adaptation."
-img: posts\20221125\DANN-Structure.png
-tags: [Deep Learning, Domain Adaptation: Adversarial Discriminative]
+img: posts/20221125/DANN-Structure.png
+tags: [Deep Learning, Domain Adaptation, Adversarial Discriminative]
 author: Zenvi
 toc: yes # leave empty or erase for no table of contents
 mathjax: yes
 ---
 
-# (DANN) Unsupervised Domain Adaptation by Backpropagation
+Paper Link: [Unsupervised Domain Adaptation by Backpropagation (mlr.press)](http://proceedings.mlr.press/v37/ganin15.pdf)
 
-- Overall structure of the proposed model:
+## Overall Structure
 
-[image]
+<center><img src="./assets/img/posts/20221125/DANN-Structure.png"></center>
 
 - Overall optimization problem:
 
