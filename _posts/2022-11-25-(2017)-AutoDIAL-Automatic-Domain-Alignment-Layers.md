@@ -11,6 +11,8 @@ toc: yes # leave empty or erase for no table of contents
 mathjax: yes
 ---
 
+
+
 Paper Link: [AutoDIAL: Automatic DomaIn Alignment Layers (thecvf.com)](https://openaccess.thecvf.com/content_ICCV_2017/papers/Carlucci_AutoDIAL_Automatic_DomaIn_ICCV_2017_paper.pdf)
 
 Supplementary Material: [Carlucci_AutoDIAL_Automatic_DomaIn_ICCV_2017_supplemental.pdf (thecvf.com)](https://openaccess.thecvf.com/content_ICCV_2017/supplemental/Carlucci_AutoDIAL_Automatic_DomaIn_ICCV_2017_supplemental.pdf)
