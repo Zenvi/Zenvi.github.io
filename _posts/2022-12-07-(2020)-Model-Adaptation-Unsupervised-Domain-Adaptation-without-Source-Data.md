@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: 2020--"Model Adaptation: Unsupervised Domain Adaptation without Source Data"
+title: 2020--"Model Adaptation：Unsupervised Domain Adaptation without Source Data"
 date: 2022-12-07 15:24:00 +0800
 img: posts/20221207/ModelAdaptation-Structure.png
 tags: [Deep Learning, Domain Adaptation, SFDA]
